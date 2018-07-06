@@ -2,7 +2,10 @@
 Palindrome Checker
 ------------------
 
-About:
+// This Repository is a compilation of several 'drafts', stored as separate files. My hope is to demonstrate the evolution of my progress in creating a small program from start to finish.
+
+
+About the Program:
 
 This is a one file program to be run via the command line.
 
