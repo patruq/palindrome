@@ -12,3 +12,4 @@ It is a simple first project that follows only a few short steps:
    a new variable/string.
 3) The user-entered word and the new backwards word are compared,
    and a message is logged to the screen over whether they match.
+4) After a word has been entered and evaluated, the program asks the 	user if they would like to continue; if yes, the program requests 	another word and continues as long as the user chooses.
